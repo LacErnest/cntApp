@@ -22,7 +22,7 @@
     <gap:plugin name="cordova-plugin-dialogs" source="npm"/>
     <gap:plugin name="cordova-plugin-vibration" source="npm"/>
     <gap:plugin name="cordova-plugin-network-information" source="npm"/>
-    <gap:plugin name="com.simplec.plugins.localnotification" spec="0.3.0" source="pgb" />
+    <gap:plugin name="com.simplec.plugins.localnotification"  source="pgb" />
 
 	<icon src="icon.png" />
 	
