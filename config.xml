@@ -13,7 +13,7 @@
     <!-- <gap:plugin name="org.apache.cordova.device" source="npm"/>
     <gap:plugin name="cordova-plugin-camera" />
     <gap:plugin name="org.apache.cordova.media-capture" /> -->
-    <gap:plugin name="org.apache.cordova.file" />
+    <gap:plugin name="org.apache.cordova.file" source="npm"/>
     <gap:plugin name="org.apache.cordova.file-transfer" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.contacts" />
